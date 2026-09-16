@@ -8,6 +8,11 @@ export const metadata = {
   title: "Counseling in Newbury Park, CA | Conejo Valley Family Counseling",
   description:
     "Counseling for adults, couples, and children in Newbury & across CA. EMDR, trauma & dissociation, special needs parenting, anxiety, & more. In-person & online.",
+  icons: {
+    icon: "/images/favicon.ico",
+    shortcut: "/images/favicon.ico",
+    apple: "/images/favicon.ico",
+  },
   alternates: {
     canonical: "https://www.conejovalleycounseling.com",
   },
